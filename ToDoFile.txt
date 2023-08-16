@@ -1,0 +1,4 @@
+Mow Lawn,Low
+Washing Windows,Low
+Bath For Dog,Medium
+Clean Stove,Low
